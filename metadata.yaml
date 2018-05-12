@@ -1,0 +1,37 @@
+_repo: The-Hollow-Land_15948
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Morris, William
+    alias: Morris, William M.
+    birthdate: 1834
+    deathdate: 1896
+    gutenberg_agent_id: '107'
+    url: http://www.gutenberg.org/2009/agents/107
+    wikipedia: http://en.wikipedia.org/wiki/William_Morris
+description: If you like your epic fantasy tales wrapped up in a dreamy layer of intricate,
+  lyrical language, you'll love William Morris' engrossing novel The Hollow Land.
+  Fans of Tolkien will relish the feeling of losing themselves in the pages of this
+  richly imagined story.
+gutenberg_bookshelf: Fantasy
+gutenberg_issued: '2005-05-31'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '15948'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Revenge -- Fiction'
+- !lcsh 'Atonement -- Fiction'
+- !lcsh 'Purgatory -- Fiction'
+- !lcsh 'Knights and knighthood -- Fiction'
+- !lcsh 'Chivalry -- Fiction'
+- !lcc 'PR'
+- !lcsh 'Battles -- Fiction'
+title: The Hollow Land
+url: http://www.gutenberg.org/ebooks/15948
